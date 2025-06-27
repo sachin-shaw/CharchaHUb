@@ -66,6 +66,8 @@ cd frontend
 npm install
 npm run dev
 
+```
+
 ## 📸 Screenshots
 Add screenshots here if you have any for homepage, login, etc. 
 
