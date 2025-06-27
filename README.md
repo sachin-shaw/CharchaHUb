@@ -65,12 +65,13 @@ npm start
 cd frontend
 npm install
 npm run dev
-📸 Screenshots
+
+## 📸 Screenshots
 Add screenshots here if you have any for homepage, login, etc. 
 
-📝 License
+## License
 This project is open-source and available under the MIT License. 
 
-🙌 Acknowledgements
+## Acknowledgements
 Thanks to Prabhat-6701 for the original idea and structure. Extended and maintained by Sachin Shaw.
 
